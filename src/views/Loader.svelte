@@ -123,7 +123,7 @@
                 </label>
             </div>
             <div class="app-discord">
-                <a href="https://androz2091.fr/discord" target="_blank"><button class="app-discord-btn">Need help? Chat with us on Discord!</button></a>
+                <a href="https://akshatmehta.com" target="_blank"><button class="app-discord-btn">Checkout my Projects</button></a>
             </div>
             <div class="app-demo">
                 no package yet? <a href="/stats/demo" use:link>demo</a>
