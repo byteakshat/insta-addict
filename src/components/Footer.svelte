@@ -1,6 +1,6 @@
 <template>
 	<footer>
-		<p>Made with ❤️ by <a href="https://twitter.com/Androz2091" target="_blank">Androz2091</a>. Instaddict is an <a href="https://github.com/Androz2091/instaddict" target="_blank">open source</a> software.</p>
+		<p>Made with ❤️ by <a href="https://github.com/nerkoux" target="_blank">Nerkoux</a>. Instaddict is an <a href="https://github.com/nerkoux/insta-addict" target="_blank">project</a> showing user's data realtime.</p>
 	</footer>
 </template>
 
