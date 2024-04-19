@@ -28,7 +28,7 @@
             });
 
             timeout = setTimeout(() => {
-                showModal('<div style="text-align: center">Like what you see?<br><a href="https://androz2091.fr/discord" target="_blank">Support us by saying hello and sharing your stats in our Discord server!<a></div>');
+                showModal('<div style="text-align: center">Like what you see?<br><a href="https://akshatmehta" target="_blank">Support me by donating some cash at akshat58@paytm UPI<a></div>');
             }, 10000);
         };
 
